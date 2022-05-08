@@ -59,7 +59,7 @@ const Login = () => {
 
         await signInWithEmailAndPassword(email, password);
 
-        fetch("https://fathomless-plateau-74593.herokuapp.com//login", {
+        fetch("https://fathomless-plateau-74593.herokuapp.com/login", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
