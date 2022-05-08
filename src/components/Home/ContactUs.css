@@ -1,0 +1,17 @@
+.map {
+    padding: 5px;
+    background-color: #3F87F5;
+    border: 5px solid #3F87F5;
+    border-radius: 0px 8px 8px 0px;
+    border-left: 0px;
+    box-shadow: 2px 30px 30px 1px #3f88f567;
+}
+
+
+.contact-box {
+    padding: 50px;
+    background-color: #3F87F5;
+    border: 13px solid #3F87F5;
+    border-radius: 8px 0px 0px 8px;
+    box-shadow: 2px 30px 30px 1px #3f88f567;
+}

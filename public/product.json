@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Waterproof Smartwatch",
+        "supplier": "Addidas",
+        "price": 420,
+        "img": "https://i.ibb.co/JtRV7dG/Waterproof-Smartwatch-with-Heart-Rate-K12-IP68-Bluetooth-4-Black-10092020-01-A-p.jpg",
+        "description": "Smart Watch with Call,Health and Fitness and Sleep Tracker,App Message Reminder,Music Control,Waterproof Smart Watch for Android iOS Phone",
+        "quantity": 100
+    },
+    {
+        "name": "Stereo Headphone",
+        "supplier": "Addidas",
+        "price": 196,
+        "img": "https://i.ibb.co/23KL0Rq/Wireless-headphones-Bluetooth-headsets-Stereo-Music-earphone-Gaming-Headphone-Wired-earbud-Speaker-P.webp",
+        "description": "Wireless headphones Bluetooth headsets Stereo Music earphone Gaming Headphone Wired earbud Speaker Phone headset With Microphone",
+        "quantity": 75
+    },
+    {
+        "name": "Oppo Reno 4",
+        "supplier": "Addidas",
+        "price": 245,
+        "img": "https://i.ibb.co/sCWYK4z/1-800x800.jpg",
+        "description": "OPPO Reno 4 smartphone runs on Android v10 (Q) operating system. The phone is powered by Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver) processor. It runs on the Qualcomm SM7125 Snapdragon 720G (8 nm) Chipset. It has 8 GB RAM and 128 GB internal storage.",
+        "quantity": 68
+    },
+    {
+        "name": "Surface Laptop 4",
+        "supplier": "Addidas",
+        "price": 229,
+        "img": "https://i.ibb.co/cJPZ05N/81-Ko-SSAw-H2-L-SL1500.jpg",
+        "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen. Do it all with a perfect balance of sleek design, speed, immersive audio, and significantly longer battery life than before.",
+        "quantity": 50
+    },
+    {
+        "name": "Apple iPad Pro 11",
+        "supplier": "Addidas",
+        "price": 287,
+        "img": "https://i.ibb.co/FVtzr0s/Apple-i-Pad-Pro-2020-11-inch.jpg",
+        "description": "The new iPad Pro is here with a fresh redesign, and it wants to prove that it can handle a full workday. This promise comes with caveats though. We will be covering the smaller 11-inch version in this review.",
+        "quantity": 50
+    },
+    {
+        "name": "DJI Mini 2",
+        "supplier": "Addidas",
+        "price": 138,
+        "img": "https://i.ibb.co/HhBSRm7/f3926f9c-fc62-4a03-8c76-f3093b94732c-37b3b7f6fd3d8122f2b30343a11b0bd7.jpg",
+        "description": "Small but mighty, DJI Mini 2 features 4K videos, 4x Zoom, and stunning panoramas, allowing you to explore a whole new perspective.",
+        "quantity": 20
+    },
+    {
+        "name": "APPLE MacBook Pro",
+        "supplier": "Addidas",
+        "price": 226,
+        "img": "https://i.ibb.co/d72Jv3q/12545235-12545235.webp",
+        "description": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
+        "quantity": 35
+    },
+    {
+        "name": "Skullcandy Earbud Headphones",
+        "supplier": "Addidas",
+        "price": 319,
+        "img": "https://i.ibb.co/w4vJr5f/ae4c3b22-68d9-4634-82cc-3a34b5fb6330-1-35199dd1349fa527ec47ddd0c90d9655.jpg",
+        "description": "Skullcandy's Supreme Sound “Attacking Bass” experience hits with punchy and powerful bass that's engineered for your music.",
+        "quantity": 100
+    },
+    {
+        "name": "Belkin Soundform True Wireless Earbuds",
+        "supplier": "Addidas",
+        "price": 260,
+        "img": "https://i.ibb.co/HTRhq0b/webdam-web-1000-1000.jpg",
+        "description": "Between its custom fit, wireless convenience, and immersive sound, the SoundForm™ True Wireless Earbuds pack a big punch in a small package.",
+        "quantity": 100
+    },
+    {
+        "name": "Kisonli Bluetooth Speaker",
+        "supplier": "Addidas",
+        "price": 437,
+        "img": "https://i.ibb.co/BHkx1X7/9495da6f228fb42c8105b20685b22119.jpg",
+        "description": "Kisonli AC-9002BT Plug Electronic Speaker Enjoy Quality Sound From Your Laptop, Computer. The Kisonli Speakers Are Designed To Connect The Sound System.",
+        "quantity": 100
+    },
+    {
+        "name": "HomePod",
+        "supplier": "Addidas",
+        "price": 146,
+        "img": "https://i.ibb.co/dQQvZXx/og-wechat-fjftv0ehyqaa.png",
+        "description": "HomePod is a wired smart speaker with a Siri voice assistant built-in. Siri can hear your voice commands from quite a distance, and even in a noisy environment.",
+        "quantity": 89
+    },
+    {
+        "name": "TV Remote",
+        "supplier": "Addidas",
+        "price": 109,
+        "img": "https://i.ibb.co/WcCqtBW/Amazon-Fire-TV-Stick-Lite-with-Alexa-Voice-Remote-Lite.jpg",
+        "description": "Find all your favourite programming with the Amazon Fire TV Stick Lite. Support for Full HD video delivers clear picture quality, and the Alexa voice remote lets you control your viewing experience with the sound of your voice.",
+        "quantity": 125
+    }
+]

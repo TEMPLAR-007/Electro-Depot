@@ -1,0 +1,24 @@
+.form-box {
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 50px;
+    color: black;
+    border: 5px solid #f2f2f2;
+}
+
+.form-submit {
+    background-color: rgb(0, 148, 64);
+}
+
+.form-submit:hover {
+    background-color: rgba(2, 151, 67, 0.866);
+}
+
+
+.add-input,
+textarea {
+    width: 100%;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+
+}
