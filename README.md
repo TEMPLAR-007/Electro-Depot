@@ -2,25 +2,24 @@
 
 ## Live Link
 
-https://springo-photography.web.app/
-
+https://electro-depot-cc605.web.app/
 
 
 ### `Home tab`
 
-Added three service items in main page "Home" tab and all reviews part in same tab
+Added six service items in main page "Home" tab and all reviews part in same tab
 
 ### `Manage Inventories tab`
 
-Login and Sign-Up form using firebase authentication
+you can update and delete all products
 
 ### `Add Item tab`
 
-About Me.
+Add item from this tab
 
 ### `My Items tab`
 
-Login and Sign-Up form using firebase authentication
+user base item will be shown and they can delete and update them
 
 ### `Blogs tab`
 
