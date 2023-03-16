@@ -8,7 +8,7 @@ const ProductDetail = () => {
     const [product, setProduct] = useState({});
 
     useEffect(() => {
-        const url = `https://fathomless-plateau-74593.herokuapp.com/product/${productId}`;
+        const url = `https://electro-depot.up.railway.app/product/${productId}`;
         fetch(url)
             .then(res => res.json())
             .then(data => setProduct(data))
@@ -26,7 +26,7 @@ const ProductDetail = () => {
 
         setProduct({ ...product, quantity: product.quantity = parseInt(product.quantity) + parseInt(FormQuantity) });
 
-        const url = `https://fathomless-plateau-74593.herokuapp.com/product/${productId}`;
+        const url = `https://electro-depot.up.railway.app/product/${productId}`;
         fetch(url, {
             method: 'PUT',
             headers: {
@@ -58,7 +58,7 @@ const ProductDetail = () => {
 
         setProduct({ ...product, quantity: product.quantity = parseInt(product.quantity) - 1 });
 
-        const url = `https://fathomless-plateau-74593.herokuapp.com/product/${productId}`;
+        const url = `https://electro-depot.up.railway.app/product/${productId}`;
         fetch(url, {
             method: 'PUT',
             headers: {

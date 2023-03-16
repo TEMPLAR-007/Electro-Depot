@@ -7,7 +7,7 @@ const ManageInventories = () => {
     const [products, setProducts] = useState([]);
     const navigate = useNavigate();
     useEffect(() => {
-        fetch('https://fathomless-plateau-74593.herokuapp.com/product')
+        fetch('https://electro-depot.up.railway.app/product')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, []);
@@ -17,7 +17,7 @@ const ManageInventories = () => {
         const proceed = window.confirm('are you sure ?')
 
         if (proceed) {
-            const url = `https://fathomless-plateau-74593.herokuapp.com/product/${id}`
+            const url = `https://electro-depot.up.railway.app/product/${id}`
             fetch(url, {
                 method: 'DELETE'
             })

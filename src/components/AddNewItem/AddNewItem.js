@@ -12,7 +12,7 @@ const AddNewItem = () => {
 
     const onSubmit = data => {
         console.log(data);
-        const url = 'https://fathomless-plateau-74593.herokuapp.com/product'
+        const url = 'https://electro-depot.up.railway.app/product'
         fetch(url, {
             method: 'POST',
             headers: {

@@ -11,7 +11,7 @@ const Home = () => {
     const [products, setProducts] = useState([]);
 
     useEffect(() => {
-        fetch('https://fathomless-plateau-74593.herokuapp.com/product')
+        fetch('https://electro-depot.up.railway.app/product')
             .then(res => res.json())
             .then(data => setProducts(data))
     }, []);

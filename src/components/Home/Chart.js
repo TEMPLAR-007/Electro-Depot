@@ -5,7 +5,7 @@ import { Area, AreaChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YA
 const Chart = () => {
     const [chartData, setChartData] = useState([]);
     useEffect(() => {
-        axios.get('https://fathomless-plateau-74593.herokuapp.com/product')
+        axios.get('https://electro-depot.up.railway.app/product')
             .then(data => setChartData(data.data)
             )
     }, [])
