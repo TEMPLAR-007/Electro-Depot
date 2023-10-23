@@ -4,6 +4,7 @@
 
 https://electro-depot-cc605.web.app/
 
+live server now in render (https://dashboard.render.com/)
 
 This website contain some data management system, you can view your product and edit/delete them on purpose. User can also see their own added product. Overall you have a minimalist dashboard in this website.
 
